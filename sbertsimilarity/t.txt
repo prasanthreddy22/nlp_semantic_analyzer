@@ -1,0 +1,4 @@
+CNN is a deep neural network used to analyze images.
+sql is databse language.
+sql is.
+Bayes theorem describes the probability of an event.

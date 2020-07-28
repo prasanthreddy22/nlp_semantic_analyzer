@@ -1,0 +1,4 @@
+Bayes theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event.
+The main difference is that L1 can yield sparse models while L2 doesn't.
+In deep learning, a convolutional neural network is a class of deep neural networks, most commonly applied to analyzing visual imagery.
+sql is the standard language for dealing with relational database.
