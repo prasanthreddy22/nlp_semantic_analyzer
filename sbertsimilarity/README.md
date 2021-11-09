@@ -1,3 +1,5 @@
+## run t1.py for the work done to sbert
+The normal sbert is as follows:
 # For Evaluation: 
 *  **1.Run docker file**
 *  **2.Run evalrestapi.py**
