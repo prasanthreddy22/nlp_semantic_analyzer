@@ -415,33 +415,7 @@ Cluster  5
 ['A man is riding a horse.', 'A man is riding a white horse on an enclosed ground.']
 ```
 
-## Citing & Authors
-If you find this repository helpful, feel free to cite our publication [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084):
-``` 
-@inproceedings{reimers-2019-sentence-bert,
-    title = "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
-    author = "Reimers, Nils and Gurevych, Iryna",
-    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing",
-    month = "11",
-    year = "2019",
-    publisher = "Association for Computational Linguistics",
-    url = "http://arxiv.org/abs/1908.10084",
-}
-```
 
-
-The main contributors of this repository are:
-- [Nils Reimers](https://github.com/nreimers)
-- [Gregor Geigle](https://github.com/aaronsom)
-
-Contact person: Nils Reimers, Rnils@web.de
-
-https://www.ukp.tu-darmstadt.de/
-
-
-Don't hesitate to send us an e-mail or report an issue, if something is broken (and it shouldn't be) or if you have further questions.
-
-> This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
 
 
